@@ -26,4 +26,4 @@ def get_data_types():
     # 4. 创建一个布尔值变量，值为 True
     bool_var = True
     # 5. 将这些变量作为元组返回
-    return (integer_var, float_var, string_var, bool_var)
+    return (integer_var, float_var, string_var, bool_var)   
